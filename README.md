@@ -6,9 +6,11 @@
 ## Run the server / Iniciar el servidor
 
 1.  Update application.properties to setup your DB connection (the projects uses JPA + Hibernate)
+
     Configura la conexión a tu base de datos en el archivo application.properties
 
 2.  Run this commands:
+
     Ejecuta estos comandos:
 
 ```
