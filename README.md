@@ -3,5 +3,6 @@
 ## Run the server / Iniciar el servidor
 
 ```
+mvn clean install
 mvn spring-boot:run
 ```
