@@ -1,5 +1,4 @@
-# Spring Boot & Maven CRUD example
-# Ejemplo de ABML con Spring Boot y Maven
+# Spring Boot & Maven CRUD example / Ejemplo de ABML con Spring Boot y Maven
 
 ### Java version: 17
 ### Spring boot version: 3.0.5
